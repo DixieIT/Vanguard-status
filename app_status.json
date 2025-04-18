@@ -1,4 +1,4 @@
 {
-  "active": false,
-  "message": "Application is currently not active. Contact Gabriele Masiero!"
+  "active": true,
+  "message": "Access Granted"
 }
